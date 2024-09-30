@@ -74,6 +74,20 @@
             <p>This project focuses on integrating character animations into a game environment, including converting a Skeletal Mesh Actor to a Static Mesh and adding a walking animation. </p>
         </div>
 
+        <div class="project">
+            <h3>NPC Interaction and 3D Dialogue System</h3>
+            <p>I implemented unique NPC interactions, where characters look towards the player and hop when nearby. Upon interaction, 3D text-based dialogue cycles through a series of lines, orienting towards the player for visibility.</p>
+        </div>
+
+        <div class="project">
+            <h3>Fire Alarm System with State-Based Audio and Light Control</h3>
+            <p>Developed a fire alarm system with two states. In the 'active' state, the alarm triggers red flashing lights and plays audio. In the 'idle' state, lights return to normal, and the alarm sound ceases gradually.</p>
+        </div>
+
+        <div class="project">
+            <h3>CSE Simulation: Object Interaction</h3>
+            <p>Expanded a CSE simulation by introducing interactive soda cans and other new object types. Additionally, the simulation includes time-of-day transitions that occur when interacting with objects in the lab.</p>
+        </div>
     </section>
 </div>
 
