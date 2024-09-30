@@ -97,6 +97,11 @@
         </div>
 
         <div class="project">
+            <h3>Windows</h3>
+            <p>Using different material meshes in a wall to create windows in the wall of the lab as well as the ability to see the passerby actor walking around the building.</p>
+        </div>
+
+        <div class="project">
             <h3>CSE Simulation: Object Interaction</h3>
             <p>Expanded a CSE simulation by introducing interactive soda cans and other new object types. Additionally, the simulation includes time-of-day transitions that occur when interacting with objects in the lab.</p>
         </div>
