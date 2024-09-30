@@ -71,7 +71,7 @@
 
         <div class="project">
             <h3>Project 3: Character Animation Integration</h3>
-            <p>This project focuses on integrating character animations into a game environment, including converting a Skeletal Mesh Actor to a Static Mesh and adding a walking animation.</p>
+            <p>This project focuses on integrating character animations into a game environment, including converting a Skeletal Mesh Actor to a Static Mesh and adding a walking animation. </p>
         </div>
 
     </section>
