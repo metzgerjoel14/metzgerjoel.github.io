@@ -16,6 +16,9 @@
             padding: 20px;
             text-align: center;
         }
+        header h1 {
+            color: #FFFFFF; /* Changed the color of "Joel Metzger" to white */
+        }
         .container {
             width: 80%;
             margin: 0 auto;
