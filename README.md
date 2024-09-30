@@ -65,11 +65,11 @@
 <div class="container">
     <section>
         <h2 class="section-title">About Me</h2>
-        <p>Hello! I am Joel Metzger, a passionate computer science student at the University of Michigan. I am constantly learning and applying my knowledge to real-world projects.</p>
+        <p>Hello! I am Joel Metzger, a passionate computer science student at the University of Michigan. I am constantly learning and applying my knowledge to real-world projects. The classes that I am currently enrolled in are EECS 492 and EECS 440.</p>
     </section>
 
     <section>
-        <h2 class="section-title">Tasks</h2>
+        <h2 class="section-title">EECS 440 Project 1</h2>
 
         <div class="project">
             <h3>Character Animation Integration</h3>
