@@ -71,7 +71,7 @@
     <section>
         <h2 class="section-title">EECS 440 Project 1</h2>
 
-        <a href="https://your-video-link-here.com" target="_blank">Watch the project demo video</a>
+        <a href="[https://www.youtube.com/watch?v=tukbZ_JUiMY]" target="_blank">Watch the project demo video</a>
 
         <div class="project">
             <h3>Character Animation Integration</h3>
