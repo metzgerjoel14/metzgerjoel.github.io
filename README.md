@@ -87,6 +87,16 @@
         </div>
 
         <div class="project">
+            <h3>Ceiling Lights</h3>
+            <p>I added ceiling lights to the lab and then had to change the shadows that way they wouldn't overlap and there were no difficulties building the lighting.</p>
+        </div>
+
+        <div class="project">
+            <h3>Blockout Basic Area Structure</h3>
+            <p>This was my favorite part of the project, I really enjoyed blocking out the structure of the lab and designing its archtecture from scratch. Overall I enjoyed the actors more than I did the interaction or coding, mainly because it was more artistic in my opinion.</p>
+        </div>
+
+        <div class="project">
             <h3>CSE Simulation: Object Interaction</h3>
             <p>Expanded a CSE simulation by introducing interactive soda cans and other new object types. Additionally, the simulation includes time-of-day transitions that occur when interacting with objects in the lab.</p>
         </div>
