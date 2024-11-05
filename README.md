@@ -112,6 +112,7 @@
     <section>
         <h2 class="section-title">EECS 440 Project 2</h2>
 
+        <a href="https://www.youtube.com/watch?v=WAOmjD_PCrQ" target="_blank">Watch the project demo video</a>
         <div class="project">
             <h3>UI: Landmark Discovery</h3>
             <p>When the player discovers a new landmark while walking around Ann Arbor, a pop-up provides historical insights and unlocks a new seed type as a reward. This encourages exploration and adds educational value to gameplay.</p>
