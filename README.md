@@ -113,6 +113,12 @@
         <h2 class="section-title">EECS 440 Project 2</h2>
 
         <a href="https://www.youtube.com/watch?v=WAOmjD_PCrQ" target="_blank">Watch the project demo video</a>
+
+        <div class="project">
+            <h3>App Overview</h3>
+            <p>This project is an AR app inspired by Pokémon Go, where players plant trees and collect seeds around Ann Arbor. However, players must watch out for squirrels that attempt to disrupt planting efforts, adding a unique challenge to the experience.</p>
+        </div>
+        
         <div class="project">
             <h3>UI: Landmark Discovery</h3>
             <p>When the player discovers a new landmark while walking around Ann Arbor, a pop-up provides historical insights and unlocks a new seed type as a reward. This encourages exploration and adds educational value to gameplay.</p>
@@ -128,10 +134,7 @@
             <p>An ever-present, scrollable inventory bar sits at the bottom of the app, displaying buttons for each seed type (and potentially acorns). Each button shows the quantity of that seed type available, enhancing user interaction with seed resources.</p>
         </div>
 
-        <div class="project">
-            <h3>App Overview</h3>
-            <p>This project is an AR app inspired by Pokémon Go, where players plant trees and collect seeds around Ann Arbor. However, players must watch out for squirrels that attempt to disrupt planting efforts, adding a unique challenge to the experience.</p>
-        </div>
+        
     </section>
 </div>
 
