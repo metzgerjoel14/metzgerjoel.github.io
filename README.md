@@ -71,7 +71,7 @@
     <section>
         <h2 class="section-title">EECS 440 Project 1</h2>
 
-        <a href="[https://www.youtube.com/watch?v=tukbZ_JUiMY]" target="_blank">Watch the project demo video</a>
+        <a href="https://www.youtube.com/watch?v=tukbZ_JUiMY" target="_blank">Watch the project demo video</a>
 
         <div class="project">
             <h3>Character Animation Integration</h3>
@@ -95,7 +95,7 @@
 
         <div class="project">
             <h3>Blockout Basic Area Structure</h3>
-            <p>This was my favorite part of the project, I really enjoyed blocking out the structure of the lab and designing its archtecture from scratch. Overall I enjoyed the actors more than I did the interaction or coding, mainly because it was more artistic in my opinion.</p>
+            <p>This was my favorite part of the project, I really enjoyed blocking out the structure of the lab and designing its architecture from scratch. Overall I enjoyed the actors more than I did the interaction or coding, mainly because it was more artistic in my opinion.</p>
         </div>
 
         <div class="project">
@@ -108,6 +108,30 @@
             <p>Expanded a CSE simulation by introducing interactive soda cans and other new object types. Additionally, the simulation includes time-of-day transitions that occur when interacting with objects in the lab.</p>
         </div>
     </section>
+
+    <section>
+        <h2 class="section-title">EECS 440 Project 2</h2>
+
+        <div class="project">
+            <h3>UI: Landmark Discovery</h3>
+            <p>When the player discovers a new landmark while walking around Ann Arbor, a pop-up provides historical insights and unlocks a new seed type as a reward. This encourages exploration and adds educational value to gameplay.</p>
+        </div>
+
+        <div class="project">
+            <h3>Game Object: Squirrel</h3>
+            <p>Ann Arbor's famously well-fed squirrels add drama and tension to the game by occasionally interfering with the player’s planted trees, serving as playful antagonists.</p>
+        </div>
+
+        <div class="project">
+            <h3>UI: Inventory Bar</h3>
+            <p>An ever-present, scrollable inventory bar sits at the bottom of the app, displaying buttons for each seed type (and potentially acorns). Each button shows the quantity of that seed type available, enhancing user interaction with seed resources.</p>
+        </div>
+
+        <div class="project">
+            <h3>App Overview</h3>
+            <p>This project is an AR app inspired by Pokémon Go, where players plant trees and collect seeds around Ann Arbor. However, players must watch out for squirrels that attempt to disrupt planting efforts, adding a unique challenge to the experience.</p>
+        </div>
+    </section>
 </div>
 
 <footer>
@@ -116,3 +140,4 @@
 
 </body>
 </html>
+
